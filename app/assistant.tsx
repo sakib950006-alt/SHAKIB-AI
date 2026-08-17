@@ -38,7 +38,7 @@ export const Assistant = () => {
   rel="noopener noreferrer"
   className="font-semibold text-sm hover:underline md:hidden"
 >
-  SHAKIB-UI
+  SHAKIB-AI
 </a>
             </header>
             <div className="flex-1 overflow-hidden">
